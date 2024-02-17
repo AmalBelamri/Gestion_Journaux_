@@ -1,0 +1,11 @@
+D:\VBapps\GestionJournaux\GestionJournaux\bin\Release\GestionJournaux.exe.config
+D:\VBapps\GestionJournaux\GestionJournaux\bin\Release\GestionJournaux.exe
+D:\VBapps\GestionJournaux\GestionJournaux\bin\Release\GestionJournaux.pdb
+D:\VBapps\GestionJournaux\GestionJournaux\bin\Release\GestionJournaux.xml
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.Form1.resources
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.Resources.resources
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.vbproj.GenerateResource.cache
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.vbproj.CoreCompileInputs.cache
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.exe
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.xml
+D:\VBapps\GestionJournaux\GestionJournaux\obj\Release\GestionJournaux.pdb
